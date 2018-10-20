@@ -1,0 +1,16 @@
+project
+...
+  repositories
+    repository
+      idmy-repo1id
+      nameyour custom reponame
+      urlhttpjarsm2.dyndns.dkurl
+    repository
+    repository
+      idmy-repo2id
+      nameyour custom reponame
+      urlhttpjarsm2.dyndns.dkurl
+    repository
+  repositories
+...
+project
